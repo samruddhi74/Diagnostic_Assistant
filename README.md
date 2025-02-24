@@ -1,4 +1,3 @@
-# Diagnostic_Assistant
 # Diagnostic Assistant: AI-Powered Medical Diagnosis
 
 ## Overview
